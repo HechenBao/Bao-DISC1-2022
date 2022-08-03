@@ -1,4 +1,4 @@
-1_fMRI_process.R – Used to extract data from raw images, annotate ROIs, and measure cross correlation and partial correlation of different ROIs.
+1_fMRI_process.R – Used to extract data from raw images, annotate ROIs, measure cross correlation and partial correlation of different ROI-ROI, and compare them compare between groups.
 
 2_corr-value_plot.R – Used to generate correlation heatmaps for cross correlation and partial correlation matrixes.
  
