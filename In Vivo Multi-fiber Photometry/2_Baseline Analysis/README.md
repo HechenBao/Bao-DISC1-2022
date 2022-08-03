@@ -6,7 +6,7 @@ Rep_threshold_homecage_XXX.m – (function) Core script to apply multiple thresh
 
 Pool_output_XXX.m – (function) Used to combine the output of individual animals.
 
-execute_homecage_XXX.m – (function) Master script to run analysis and export data. 
+execute_homecage_XXX.m – Master script to run analysis and export data. 
 
-hc_raw_corr_XXX.m – (function) Used to measure the correlation of two ROIs.  
+hc_raw_corr_XXX.m – Used to measure the correlation of two ROIs.  
 
