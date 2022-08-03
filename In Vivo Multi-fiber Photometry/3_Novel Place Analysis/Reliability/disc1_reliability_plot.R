@@ -247,15 +247,6 @@ rm(list = ls())    #clear environement
   data_cont_test_weight <- aggregate(abs(data_cont_test$diff_rb), list(data_cont_test$GroupROI), sum)
   colnames(data_cont_test_weight) <- c('ROI','weight')
   
-  # ggplot(data=data_cont_hab_weight,aes(x=(ROI),y=(weight)))+geom_bar()
-                                    
- 
-## ANOVA test
-  # data_hab = subset(data,Phase == "Hab")
-  # result_zscore.hab <- lm(formula = zscore~Group+Time+ROI+Group*ROI, data = data_hab)
-  # anova(result_zscore.hab)
-  # summary(result_zscore.hab)
 
-  
   
                       
