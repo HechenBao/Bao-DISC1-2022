@@ -1,6 +1,6 @@
 function [] = Rep_threshold_homecage_CA (CA1_ratio, CA3_ratio, fs, sd, name, output_dir)
 % This function is to apply multiple threshold to the data, and get calcium
-% events associated with homecage events
+% events associated with homecage behavior
 
 % CA1_ratio, ROI1 data
 % CA3_ratio, ROI2 data
