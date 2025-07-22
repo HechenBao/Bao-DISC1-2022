@@ -1,5 +1,5 @@
-# Bao-DISC1-2022
-This Repository contains the codes used to process and analyze in vivo BOLD resting state fMRI data and in vivo fiber photometry calcium imaging data used in Bao et al 2022 manuscript. 
+# Bao-DISC1-2025
+This Repository contains the codes used to process and analyze in vivo BOLD resting state fMRI data and in vivo fiber photometry calcium imaging data used in Bao et al 2025 manuscript. 
 
 Dr. Zhiqiang Hu established the original codes for the fMRI partial correlation analysis. 
 
